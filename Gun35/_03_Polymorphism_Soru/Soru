@@ -1,0 +1,9 @@
+1-Ogrenci isimli  ad , soyad, görevi , subesi olan bir class yazınız
+2-Calisan isimli  ad, soyad, görevi , departmanı olan bir sınıf yazınız.
+3-Yukarıdaki sınıflardan oluşturacağınız 2 adet nesne için de geçerli
+  olacak kimlik belgesi formu oluşturan tek bir metod yazınız.
+
+
+  kimlikYaz( Calisan ){
+
+  }

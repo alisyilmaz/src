@@ -1,0 +1,4 @@
+Kare, Dikdortken sınıflarından oluşacak bir geometri programı
+yapılmak isteniyor.bunların ayrı ayrı , fakat ortak metodlarının
+(cevresi() ve alani() )zorunlu olabilmesi için gerekli yapıyı kurunuz ve yazınız.
+2 nesne için de main de değer vererek , sonuçlarını yazdırınız.
